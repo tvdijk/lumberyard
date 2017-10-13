@@ -111,3 +111,15 @@
 /dev/Gems/OpenVR
 /dev/Gems/PBSreferenceMaterials
 /dev/Gems/Substance
+dev/Cache/
+dev/Editor/editoreventlog.xml
+dev/Editor/editorlayout.xml
+dev/SetupAssistantUserPreferences.ini
+dev/_WAF_/environment.json
+dev/SessionStatus/editor_statuses.json
+dev/BinTemp/
+dev/Solutions/
+dev/Code/Tools/SDKs/
+dev/Code/SDKs/
+dev/Code/Sandbox/SDKs/
+dev/UserSettings.xml
